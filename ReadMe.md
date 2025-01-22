@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Developing a Military Drone Management Application and Volunteer Optimization Tool, focusing on database and user management functionalities.<br>👯 I’m looking to collaborate on: Projects involving C++, C# development, web development, or database management, especially in fields related to cybersecurity or military technology.<br>🤝 I’m looking for help with: Enhancing UI/UX for my applications, optimizing database structures, and implementing secure authorization methods.<br>🌱 I’m currently learning: ASP.NET Core, Git, Telegram API, and UI frameworks like Blazor and React, while also improving my skills in cybersecurity and binary exploitation for CTF challenges.<br>💬 Ask me about: C++ development, database management with MySQL, hackathons, CTFs, and strategies for organizing and tracking volunteer contributions in applications.<br>⚡ Fun fact: I’m a quick learner, enjoy practical shooting and running, and recently placed 3rd in a .NET hackathon where I developed an innovative tool for teaching English to children.
-
+🔭 Now we are actively looking for interesting projects 🤝 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/roman-zhvanskiy-7289222b7) 
